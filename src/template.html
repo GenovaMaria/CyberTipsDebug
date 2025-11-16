@@ -1,199 +1,225 @@
 <!DOCTYPE html>
 <html lang="nl">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daily Cyber Calendar - Tip {DAY_OF_YEAR}</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background-color: #f7f9fc;
-            color: #333;
-            text-align: center;
-            margin: 0;
-            padding: 20px;
-        }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Cyber Calendar</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background-color: #f7f9fc;
+      color: #333;
+      text-align: center;
+      margin: 0;
+      padding: 20px;
+    }
 
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background: #ffffff;
-            padding: 30px 25px 25px;
-            border-radius: 12px;
-            box-shadow: 0 6px 15px rgba(0,0,0,0.08);
-        }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: #ffffff;
+      padding: 30px 25px 25px;
+      border-radius: 12px;
+      box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
+    }
 
-        h1 {
-            color: #0056b3;
-            font-size: 1.8em;
-            margin-bottom: 10px;
-        }
+    h1 {
+      color: #0056b3;
+      font-size: 1.8em;
+      margin-bottom: 10px;
+    }
 
-        p {
-            font-size: 1.2em;
-            line-height: 1.6;
-            color: #555;
-        }
+    p {
+      font-size: 1.2em;
+      line-height: 1.6;
+      color: #555;
+    }
 
-        .date {
-            color: #888;
-            margin-bottom: 25px;
-            font-size: 1em;
-            font-weight: 500;
-        }
+    .date {
+      color: #888;
+      margin-bottom: 25px;
+      font-size: 1em;
+      font-weight: 500;
+    }
 
-        #tip-image {
-            max-width: 100%;
-            height: auto;
-            margin-top: 20px;
-            border-radius: 8px;
-            box-shadow: 0 3px 10px rgba(0,0,0,0.08);
-        }
+    #tip-image {
+      max-width: 100%;
+      height: auto;
+      margin-top: 20px;
+      border-radius: 8px;
+      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+    }
 
-        .hint {
-            margin-top: 20px;
-            font-size: 0.9em;
-            color: #777;
-        }
-    </style>
+    .hint {
+      margin-top: 20px;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
 </head>
 <body>
-    <div class="container">
-        <div class="date">{DATE_STRING}</div>
+  <div class="container">
+    <div class="date" id="date-text">{DATE_STRING}</div>
 
-        <h1>
-            Cyber Security Tip van de Dag
-            (<span id="tip-number">{DAY_OF_YEAR}</span>/<span id="tip-total">365</span>)
-        </h1>
+    <h1>
+      Cyber Security Tip van de Dag
+      (<span id="tip-number">{DAY_OF_YEAR}</span>/<span id="tip-total">?</span>)
+    </h1>
 
-        <p id="tip-text">{TIP_TEXT}</p>
+    <p id="tip-text">{TIP_TEXT}</p>
 
-        <!-- This placeholder will be replaced by generate-debug.js with an <img> tag -->
-        {TIP_IMAGE_TAG}
+    {TIP_IMAGE_TAG}
 
-        <div class="hint">
-            ⬅️ Linker pijltje = vorige • ➡️ Rechter pijltje of klik = volgende tip
-        </div>
+    <div class="hint">
+      ⬅️ Linker pijltje = vorige • ➡️ Rechter pijltje of klik = volgende tip
     </div>
+  </div>
 
-    <script>
-        (function () {
-            const tipTextEl = document.getElementById('tip-text');
-            const tipNumberEl = document.getElementById('tip-number');
-            const tipTotalEl = document.getElementById('tip-total');
-            const tipImageEl = document.getElementById('tip-image');
+  <script>
+    (function () {
+      const tipTextEl = document.getElementById('tip-text');
+      const tipNumberEl = document.getElementById('tip-number');
+      const tipTotalEl = document.getElementById('tip-total');
+      const tipImageEl = document.getElementById('tip-image');
+      const dateTextEl = document.getElementById('date-text');
 
-            let tips = [];
-            let currentIndex = 0;
+      // Show today's date in the browser (even though the template already has a date)
+      const today = new Date();
+      if (dateTextEl) {
+        dateTextEl.textContent = today.toLocaleDateString('nl-NL', {
+          weekday: 'long',
+          year: 'numeric',
+          month: 'long',
+          day: 'numeric'
+        });
+      }
 
-            function setStatus(msg) {
-                if (tipTextEl) tipTextEl.textContent = msg;
-            }
+      let tips = [];
+      let currentIndex = 0;
 
-            function normalizeImagePath(raw) {
-                if (!raw) return null;
-                // Just use the filename; images are served from /images/
-                const parts = String(raw).split(/[/\\]/);
-                return parts[parts.length - 1];
-            }
+      function setStatus(msg) {
+        if (tipTextEl) {
+          tipTextEl.textContent = msg;
+        }
+      }
 
-            function showTip(index) {
-                if (!tips.length) return;
+      function resolveImagePath(raw) {
+        if (!raw) return null;
+        let img = String(raw).trim();
 
-                if (index < 0) {
-                    index = tips.length - 1;
-                } else if (index >= tips.length) {
-                    index = 0;
-                }
+        // If no extension, assume .png
+        if (!/\.(png|jpe?g|gif)$/i.test(img)) {
+          img += '.png';
+        }
 
-                currentIndex = index;
-                const tip = tips[currentIndex];
+        // If no folder specified, use data/images/
+        if (!img.includes('/')) {
+          img = 'data/images/' + img;
+        }
 
-                if (tipTextEl) {
-                    tipTextEl.textContent = tip.text || '';
-                }
+        return img;
+      }
 
-                if (tipNumberEl) {
-                    tipNumberEl.textContent = String(currentIndex + 1);
-                }
+      function showTip(index) {
+        if (!tips.length) return;
 
-                if (tipTotalEl) {
-                    tipTotalEl.textContent = String(tips.length);
-                }
+        if (index < 0) {
+          index = tips.length - 1;
+        } else if (index >= tips.length) {
+          index = 0;
+        }
 
-                if (tipImageEl) {
-                    if (tip.image) {
-                        tipImageEl.style.display = '';
-                        tipImageEl.src = 'images/' + tip.image;
-                        tipImageEl.alt = 'Cyber security tip ' + (currentIndex + 1);
-                    } else {
-                        tipImageEl.style.display = 'none';
-                    }
-                }
+        currentIndex = index;
+        const tip = tips[currentIndex];
 
-                document.title = 'Daily Cyber Calendar - Tip ' +
-                                 (currentIndex + 1) + '/' + tips.length;
-            }
+        if (tipTextEl) {
+          tipTextEl.textContent = tip.text || '';
+        }
 
-            function nextTip() {
-                if (!tips.length) return;
-                showTip(currentIndex + 1);
-            }
+        if (tipNumberEl) {
+          tipNumberEl.textContent = String(currentIndex + 1);
+        }
 
-            function prevTip() {
-                if (!tips.length) return;
-                showTip(currentIndex - 1);
-            }
+        if (tipTotalEl) {
+          tipTotalEl.textContent = String(tips.length);
+        }
 
-            // Keyboard navigation
-            document.addEventListener('keydown', function (e) {
-                if (e.key === 'ArrowRight') {
-                    e.preventDefault();
-                    nextTip();
-                } else if (e.key === 'ArrowLeft') {
-                    e.preventDefault();
-                    prevTip();
-                }
-            });
+        if (tipImageEl) {
+          if (tip.image) {
+            tipImageEl.style.display = '';
+            tipImageEl.src = resolveImagePath(tip.image);
+            tipImageEl.alt = 'Cyber security tip ' + (currentIndex + 1);
+          } else {
+            tipImageEl.style.display = 'none';
+          }
+        }
 
-            // Click anywhere to go to next tip
-            document.addEventListener('click', function () {
-                nextTip();
-            });
+        document.title =
+          'Daily Cyber Calendar - Tip ' +
+          (currentIndex + 1) +
+          '/' +
+          tips.length;
+      }
 
-            // Load tips.json (not inlined; read from file)
-            setStatus('Tips aan het laden...');
+      function nextTip() {
+        if (!tips.length) return;
+        showTip(currentIndex + 1);
+      }
 
-            fetch('tips.json')
-                .then(function (response) {
-                    if (!response.ok) {
-                        throw new Error('HTTP ' + response.status);
-                    }
-                    return response.json();
-                })
-                .then(function (data) {
-                    // support both { tips: [...] } and [...] formats
-                    const rawTips = Array.isArray(data) ? data : data.tips;
+      function prevTip() {
+        if (!tips.length) return;
+        showTip(currentIndex - 1);
+      }
 
-                    if (!Array.isArray(rawTips) || rawTips.length === 0) {
-                        setStatus('Geen tips gevonden in tips.json.');
-                        return;
-                    }
+      // Keyboard navigation
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'ArrowRight') {
+          e.preventDefault();
+          nextTip();
+        } else if (e.key === 'ArrowLeft') {
+          e.preventDefault();
+          prevTip();
+        }
+      });
 
-                    tips = rawTips.map(function (tip, index) {
-                        return {
-                            text: tip.text || '',
-                            image: normalizeImagePath(tip.image)
-                        };
-                    });
+      // Click anywhere to go to the next tip
+      document.addEventListener('click', function () {
+        nextTip();
+      });
 
-                    showTip(0);
-                })
-                .catch(function (err) {
-                    console.error('Fout bij het laden van tips.json:', err);
-                    setStatus('Kon tips.json niet laden (zie console voor details).');
-                });
-        })();
-    </script>
+      // Load tips.json from /data/tips.json (served from public/data/tips.json)
+      setStatus('Tips aan het laden...');
+
+      fetch('data/tips.json')
+        .then(function (response) {
+          if (!response.ok) {
+            throw new Error('HTTP ' + response.status);
+          }
+          return response.json();
+        })
+        .then(function (data) {
+          // Support both { "tips": [...] } and just [...]
+          const rawTips = Array.isArray(data) ? data : data.tips;
+
+          if (!Array.isArray(rawTips) || rawTips.length === 0) {
+            setStatus('Geen tips gevonden in data/tips.json.');
+            return;
+          }
+
+          tips = rawTips.map(function (tip) {
+            return {
+              text: tip.text || '',
+              image: tip.image || null
+            };
+          });
+
+          showTip(0);
+        })
+        .catch(function (err) {
+          console.error('Fout bij het laden van data/tips.json:', err);
+          setStatus('Kon data/tips.json niet laden (zie console voor details).');
+        });
+    })();
+  </script>
 </body>
 </html>
