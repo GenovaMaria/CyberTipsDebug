@@ -1,0 +1,38 @@
+name: Manual DB Update
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync-tips:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout current repo
+        uses: actions/checkout@v4
+
+      - name: Clone private CyberTips repo
+        env:
+          TOKEN: ${{ secrets.CYBERTIPS_PAT }}
+        run: |
+          git clone https://x-access-token:${TOKEN}@github.com/GenovaMaria/CyberTips.git temp_cybertips
+
+      - name: Copy tips and images to data/
+        run: |
+          mkdir -p data/images
+          cp temp_cybertips/tips.json data/tips.json
+          rm -rf data/images
+          mkdir -p data/images
+          cp -r temp_cybertips/images/used/* data/images/
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add data/tips.json data/images
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Manual tip DB sync: $(date +%F)"
+            git push
+          fi
