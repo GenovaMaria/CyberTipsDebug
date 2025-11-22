@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="nl">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -50,6 +51,14 @@
       box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
     }
 
+    #tip-text {
+      font-size: 1.2em;
+      line-height: 1.6;
+      color: #555;
+      white-space: pre-line;
+      /* <<< this makes \n show as real line breaks */
+    }
+
     .hint {
       margin-top: 20px;
       font-size: 0.9em;
@@ -57,6 +66,7 @@
     }
   </style>
 </head>
+
 <body>
   <div class="container">
     <div class="date" id="date-text">{DATE_STRING}</div>
@@ -222,4 +232,5 @@
     })();
   </script>
 </body>
+
 </html>
