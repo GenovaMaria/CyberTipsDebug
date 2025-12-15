@@ -3,7 +3,7 @@
     {
       "day": 1,
       "text": "‘Heb je nog goede voornemens?’\n‘Ja, ik moet zeker 10 kilo afvallen.’\n‘Wat een lang en sterk wachtwoord is dat: Ik moet 10 kilo afvallen! Als je dat elke dag typt, kun je dat ook niet vergeten.’",
-      "image": "Password"
+      "image": "AfvalVoornemen"
     },
     {
       "day": 2,
@@ -13,17 +13,17 @@
     {
       "day": 3,
       "text": "Als mensen hun digitale rommel in de cloud opruimen, dan scheelt dat veel energie. Waarom moet je foto’s opslaan waar je lelijk op staat? Beter wissen voordat de cloudprovider een datalek krijgt.",
-      "image": "Cloud"
+      "image": "CloudFotos"
     },
     {
       "day": 4,
       "text": "Je krijgt een sms over een pakket dat jouw kant op komt. Komt het nummer uit een land dat je alleen van de wereldkaart kent? Dan is het een internetcrimineel.",
-      "image": "FakeMap"
+      "image": "ScamFromNigeria"
     },
     {
       "day": 5,
       "text": "Zie je een link in een e-mail? Doe net alsof het de vloer is, en de vloer is lava. Die link leidt vaak naar een duister hoekje op het internet waar virussen feestvieren. Als je klikt doen ze dat op jouw apparaat.",
-      "image": "KlikLinkVirus"
+      "image": "LavaVirus"
     },
     {
       "day": 6,
@@ -33,12 +33,12 @@
     {
       "day": 7,
       "text": "Ontvang je een e-mail over een onderwerp dat je niet verwacht? Doe vijf rekoefeningen, terwijl je nadenkt of je die gaat openen.\nAls je het daarna nog steeds niet weet: vraag het aan de IT-afdeling.",
-      "image": "Stretchen"
+      "image": "VijfRekOefeningen"
     },
     {
       "day": 8,
       "text": "Wat is de gemakkelijkste manier om een nepmail te herkennen?\nTijdsdruk. \nJe moet iets doen en ook nog snel.\nIs elke e-mail met tijdsdruk verdacht? Ja, behalve van een heel ongeduldige partner. Maar je weet vast hoe je die ook kunt afpoeieren.",
-      "image": "AccountPhishing"
+      "image": "TijdsdrukEmail"
     },
     {
       "day": 9,
@@ -58,32 +58,32 @@
     {
       "day": 12,
       "text": "Wil je positief blijven? Klik op ‘wachtwoord vergeten’ en vervang een paar van je wachtwoorden door positieve varianten.\n1. DeZonSchijntNaDeRegen!\n2. ElkeDagEenNieuwAvontuur2025!\n3. LachenIsHetBesteMedicijn!\n4. GlimlachEnDeWereldGlimlachtTerug.\n5. VolgJeDromenZeWetenDeWeg.",
-      "image": "PositiefWW"
+      "image": "PositivePassword"
     },
     {
       "day": 13,
       "text": "Wil je gemakkelijk herkennen of een e-mail van PostNL is of van oplichters? Je kunt een codewoord met PostNL afspreken. Die staat dan voortaan boven elke e-mail die je krijgt.\nGa naar de site en zoek op ‘anti-phishingcode’.\nDit codewachtwoord hoeft niet sterk te zijn. ‘Pindakaas’ is genoeg. Geen enkele oplichter weet dat je aan pindakaas denkt als je post ontvangt.",
-      "image": "PostNL"
+      "image": "PeanutButter2"
     },
     {
       "day": 14,
       "text": "Verklein de enorme berg overbodige e-mails. Een cc is in de meeste gevallen overbodig. En als je een mail eindigt met NRN (no response necessary), dan weet de ontvanger dat er geen antwoord verwacht wordt.",
-      "image": "Programmer"
+      "image": "EmailSpam"
     },
     {
       "day": 15,
       "text": "Soms is het gras bij de buren groener omdat het nep is.\nDat is ook zo op social media.",
-      "image": "SocialMedia2"
+      "image": "FakeGrass"
     },
     {
       "day": 16,
       "text": "In Nederland betalen we ruim 100 miljoen euro per jaar aan online oplichters.\nDie miljoenen geven ze vooral uit aan horloges, sieraden, designerkleding, telefoons, laptops en onroerend goed.",
-      "image": "WheelBarrowMoney"
+      "image": "RichCriminals"
     },
     {
       "day": 17,
       "text": "Wat doe je bij fraude?\n-Bel snel je bank. Fraude kun je melden bij alle banken via voorkomfraude.nl\n-Bel de FraudeHelpdesk (088 – 786 73 72).\n-Doe online aangifte. Of maak via 0900 88 44 een afspraak met een financieel rechercheur bij de politie.\n-Als je last hebt van stress en negatieve emoties, neem contact op met Slachtofferhulp Nederland.",
-      "image": "Helpdesk"
+      "image": "GovernmentFraud"
     },
     {
       "day": 18,
@@ -93,12 +93,12 @@
     {
       "day": 19,
       "text": "Veel bedrijven hebben een Security Operation Center. De analisten worden knettergek van al die alerts, gemiddeld 5185 per dag. Ze kunnen minder dan een derde echt onderzoeken. Met 64 procent doen ze niets (onderzoek Tesorion).\nReken dus niet te veel op de IT-afdeling, maar let zelf goed op wat je aanklikt.",
-      "image": "AIVSCyber"
+      "image": "CyberCenter"
     },
     {
       "day": 20,
       "text": "Struisvogels kunnen sneller rennen dan paarden.\nCybercriminelen kunnen ook sneller rennen dan de politie. Bescherm dus goed je accounts, want de kans dat ze boeven ooit je schade vergoeden, is bijzonder klein.",
-      "image": "CyberRunning"
+      "image": "FastCriminal"
     },
     {
       "day": 21,
@@ -108,12 +108,12 @@
     {
       "day": 22,
       "text": "Een Tinder-date wilde een Nederlandse vrouw leren beleggen. Ze raakte 207.000 euro kwijt. En zij is lang niet de enige.\nInternetgeliefden die je een winstgevende belegging beloven? Dat is een nog grotere illusie dan hun verliefdheid.",
-      "image": "ScamLove"
+      "image": "TinderFraud"
     },
     {
       "day": 23,
       "text": "Moeite met originele wachtwoorden verzinnen? Laat je inspireren door bijzondere straatnamen in Nederland en België: \nEendekotsweg\nPijpstraat\nFuckspad\nOude zak\nSlapperdel\nHondegatstraat\nPisbuiten\nPoepershoek",
-      "image": "Snot"
+      "image": "OldSackStreet"
     },
     {
       "day": 24,
@@ -123,52 +123,52 @@
     {
       "day": 25,
       "text": "Je bent aan het koken en opeens belt je bank of je een groot bedrag naar het buitenland hebt overgemaakt. Je schrikt je rot. \nOp het moment dat de bankmedewerker zegt dat je je geld naar een ‘veilige rekening’ of een ‘kluisrekening’ moet overmaken, moet je ophangen. Die bestaan alleen in de fantasie van de oplichters.\nBel je eigen bank en ga verder met koken als je eten nog niet aangebrand is.",
-      "image": "BankerIGuess"
+      "image": "Vault"
     },
     {
       "day": 26,
       "text": "Zie je online een advertentie voor een mooi rendement op spaargeld? Als je je contactgegevens invult, word je gebeld. \nEerst beleg je met kleine bedragen en krijg je veel winst. Als je meer inlegt, is alles ineens verdwenen. En je contactpersoon ook.",
-      "image": "Savings"
+      "image": "StocksUp"
     },
     {
       "day": 27,
       "text": "De helft van de 20-plussers heeft overgewicht. Huisje, boompje, buikje is de nieuwe slogan. Vind je dat laatste maar niets: doe tijdens het updaten van je computer buikspieroefeningen.",
-      "image": "OSUpdate"
+      "image": "OSUpdateExcercises"
     },
     {
       "day": 28,
       "text": "Data Protection Day.\nKijk op de website van Bits of Freedom, dan zie je veel privacyschendingen voorbijkomen. Ook door de overheid en door bedrijven waar je het niet van verwacht.",
-      "image": "DataProtectionDay"
+      "image": "PrivacyBits"
     },
     {
       "day": 29,
       "text": "De meest gemelde datalekken zijn e-mails met persoonlijke gegevens verstuurd naar de verkeerde. Voordat je op 'verzenden' drukt, dubbelcheck het e-mailadres van je contactpersoon.",
-      "image": "Dataleak"
+      "image": "DataBreach"
     },
     {
       "day": 30,
       "text": "Veel mensen hebben een horloge, cybercriminelen hebben de tijd. Soms zijn ze heel lang bezig om een gaatje in de beveiliging te vinden. \nDat gaatje is meestal een mens.",
-      "image": "CrimineelDeTijd"
+      "image": "TimeControl"
     },
     {
       "day": 31,
       "text": "Je wilt geen dure telefoons of slimme apparaten weggooien als ze na heel veel jaren nog steeds prima werken. Toch is dat veiliger. Of loskoppelen van het internet. Anders worden ze op afstand overgenomen en de cybercriminelen hoeven niet eens ‘Sesam, open u’ te zeggen om binnen te komen. Dat komt omdat fabrikanten vaak weigeren om updates te sturen voor oudere apparaten om bekende kwetsbaarheden op te lossen.",
-      "image": "IOT"
+      "image": "AfkoppelenOfWeggooien"
     },
     {
       "day": 32,
       "text": "‘Wat was je goede voornemen begin januari?’\n‘Meer sporten. Maar helaas niet gelukt. Daardoor heb ik wel een sterk wachtwoord voor februari: ‘Alweer niet gelukt 02!’",
-      "image": "Password"
+      "image": "GoodMerit"
     },
     {
       "day": 33,
       "text": "Warme truiendag.\nWat is de link tussen een hacker en een warme trui?\nEen warme trui geeft je een warm gevoel.\nMet een hacker in je computer heb je geen warme trui meer nodig. Dan krijg je het vanzelf warm.",
-      "image": "HackerSweater"
+      "image": "WarmSweaterDay"
     },
     {
       "day": 34,
       "text": "Weet je wat nomofobie is?\nAngst dat je geen bereik hebt op je telefoon.\nMaar erger dan even geen bereik is gehackt worden. Zie je een update in de instellingen? Meteen installeren. Dit is je beste wapen tegen hackers.",
-      "image": "CellPhones"
+      "image": "NomofobieIsEenDing"
     },
     {
       "day": 35,
@@ -178,7 +178,7 @@
     {
       "day": 36,
       "text": "Wat was er eerst: de kat of de muis?\nMuizen bestonden al miljoenen jaren voordat de eerste katachtigen op de aarde verschenen. De muizen rolden de rode loper uit voor de eerste katten die de jacht op ze openden.\nDat is ook zo’n beetje de geschiedenis van het internet. Het internet werd op een onveilige manier ontworpen, simpelweg omdat niemand toen kon vermoeden dat er cybercriminelen zouden verschijnen.",
-      "image": "FragileInternet"
+      "image": "CatOrMouse"
     },
     {
       "day": 37,
@@ -188,7 +188,7 @@
     {
       "day": 38,
       "text": "Hoe zorg je ervoor dat de batterij van je mobiel langer meegaat? Verwijder alle apps die je niet meer gebruikt. Ook goed voor je privacy. Apps maken heel vaak verbinding om gegevens door te sturen.",
-      "image": "LowBattery"
+      "image": "LowBattery2"
     },
     {
       "day": 39,
@@ -208,7 +208,7 @@
     {
       "day": 42,
       "text": "Als je een Google-zoekopdracht doet, worden duizend computers gebruikt om het antwoord in 0,2 seconden te vinden. Minder onzinnige vragen is fijner voor het milieu. Vooral online filmpjes bekijken is enorm belastend.",
-      "image": "SocialMedia"
+      "image": "ZinloseGoogleOpdrachtenBende"
     },
     {
       "day": 43,
@@ -218,37 +218,37 @@
     {
       "day": 44,
       "text": "13 februari\nNationale ruim-je-computer-op-dag\nVerwijder alle onnodige bestanden. En ook alle privacygevoelige bestanden zoals een kopie van je ID of je belastingaangifte. Bewaar die op een usb-stick of op een externe harde schijf.",
-      "image": "FilesClean"
+      "image": "CleanOutPC"
     },
     {
       "day": 45,
       "text": "1 van de hackersgroepen kon gevolgd worden. Daarom weten we wat ze aan bitcoinbetalingen hebben ontvangen: 315 miljoen dollar in 1 jaar tijd. Allemaal van radeloze mensen en bedrijven die geld overmaken in de hoop dat ze hun bestanden terugkrijgen.",
-      "image": "Ransomware"
+      "image": "EZMoneyAlsJeHackerBent"
     },
     {
       "day": 46,
       "text": "Ooit een gluurder meegemaakt, die probeert mee te lezen op je laptop terwijl je in de trein zit?\nPlak een ‘privacy screen’ op je scherm. Die kun je online bestellen. Alleen degene die recht voor het scherm zit, kan alles lezen.",
-      "image": "PrivacyScreen"
+      "image": "Glancer"
     },
     {
       "day": 47,
       "text": "Heb je een baaldag? Verander dan je wachtwoord in ‘Ik ben vandaag heel blij!’\nZorg ervoor dat je minimaal vijf keer die dag inlogt. Onze hersenen zijn zo geprogrammeerd dat ze na een tijdje geloven wat we typen.",
-      "image": "Password"
+      "image": "PasswordCelebration"
     },
     {
       "day": 48,
-      "text": "Dolfijnen slapen met hun ogen open of alleen met 1 oog dicht. Terwijl één hersenhelft rust, blijft de andere helft alert op gevaren.  \nZo veel digitale alertheid is een tikje overdreven, toch?",
-      "image": "Dolfijn"
+      "text": "Dolfijnen slapen met hun ogen open of alleen met 1 oog dicht. Terwijl één hersenhelft rust, blijft de andere helft alert op gevaren.  \nZo veel digitale alertheid is een tikje overdreven, toch?",
+      "image": "Dolfin"
     },
     {
       "day": 49,
       "text": "Verliefd worden online is altijd een beetje gevaarlijk. Niet omdat hij of zij in het echt tegenvalt, dat is nog het minst erge. In Nederland raken verliefde mensen zeven miljoen euro per jaar kwijt aan datingfraude.",
-      "image": "LoveHacker"
+      "image": "PhoneDatingFraud"
     },
     {
       "day": 50,
       "text": "Na onze geboorte groeien onze ogen niet meer. Misschien dat we het daarom zo lastig vinden om phishingmails op het blote oog te herkennen. Check de afzender door erop te klikken. Dat werkt beter dan vertrouwen op een orgaan dat is stil blijven staan in zijn ontwikkeling.",
-      "image": "AlertOnline"
+      "image": "AwareOnline"
     },
     {
       "day": 51,
@@ -258,37 +258,37 @@
     {
       "day": 52,
       "text": "Een giraffe kan langer zonder water dan een kameel.\nDe meeste mensen houden het langer uit zonder water dan zonder hun mobiel.",
-      "image": "CellPhones"
+      "image": "KamelenTelefoon"
     },
     {
       "day": 53,
       "text": "De Dag van het Slachtoffer.\nMooi dat er zo’n dag is, want iedereen kan ergens in trappen.\nHet heeft niets met stomheid te maken, wel met vertrouwen in de goedheid van de mens of gewoon met even niet opletten.\nBied slachtoffers altijd een luisterend oor en maak ze geen verwijten.",
-      "image": "Cop"
+      "image": "DayOfVictim"
     },
     {
       "day": 54,
-      "text": "Het langzaamste licht vastgesteld bewoog zich voort met slechts 61 km per uur. Ook niet alle cybercriminelen zijn snel. De langzame zijn de ergste. Ze slaan niet meteen toe als ze ergens binnen zijn. Ze wachten vaak een half jaar, tot er niets meer van de back-ups klopt. niet meer. En dan  hebben ook meer dan genoeg tijd gehad om alle klantgegevens te stelen.\nAls je iets verdachts ziet: meteen melden bij de IT-afdeling. Sneller dan het licht.",
-      "image": "CyberRunning"
+      "text": "Het langzaamste licht vastgesteld bewoog zich voort met slechts 61 km per uur. Ook niet alle cybercriminelen zijn snel. De langzame zijn de ergste. Ze slaan niet meteen toe als ze ergens binnen zijn. Ze wachten vaak een half jaar, tot er niets meer van de back-ups klopt. En dan  hebben ook meer dan genoeg tijd gehad om alle klantgegevens te stelen.\nAls je iets verdachts ziet: meteen melden bij de IT-afdeling. Sneller dan het licht.",
+      "image": "ComputerBurst"
     },
     {
       "day": 55,
       "text": "Als een man belooft iets te doen, doet hij het. Het is echt niet nodig om hem daar elke zes maanden aan te herinneren, toch?\nIn plaats van om dat steeds aan je man te vragen, koop zelf een externe harde schijf of een usb-stick en zet je belangrijkste documenten en foto’s veilig weg. Een extra back-up voorkomt dat je ooit zegt: ‘Had ik nou maar niet op hem gewacht…’",
-      "image": "Cloud"
+      "image": "CyberLaptop"
     },
     {
       "day": 56,
       "text": "‘Uw pakket kon niet afgeleverd worden. Log in om een aflevermoment in te plannen.’\nDat mag je zeker doen als je iets besteld hebt, maar niet via de link. Die is vaak van cybercriminelen.  \nGa naar de officiële website van het bedrijf en log daar in.",
-      "image": "PostNLPhishing"
+      "image": "DasPechPakketWegHehHeh"
     },
     {
       "day": 57,
       "text": "Als je vermoedt dat een bekende verliefd is op een datingfrauder, vraag om zijn foto.  Ga naar Google.com en klik op 'zoeken op afbeelding.’ Klik op ‘bestand uploaden’. Die foto is meestal van iemand anders. Een schrijver, acteur, etc…",
-      "image": "ScamLove"
+      "image": "LoveFraud"
     },
     {
       "day": 58,
       "text": "Liefde is…\nAlles delen behalve je wachtwoorden. En je onderbroeken.",
-      "image": "Password"
+      "image": "OnderbroekDelen"
     },
     {
       "day": 59,
@@ -298,17 +298,17 @@
     {
       "day": 60,
       "text": "Nationale complimentendag.\nVraag aan ChatGPT om tien cybercomplimenten voor je collega’s te verzinnen. Die schudt ze zo uit zijn mouw.",
-      "image": "Compliment"
+      "image": "ChatGPTComplimentenVoelenNietEcht"
     },
     {
       "day": 61,
       "text": "De langste plaatsnaam is te vinden in Wales, het dorpje Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch. Een heel gaaf wachtwoord.",
-      "image": "Wales"
+      "image": "LangstePlaatsnaamTerWereldMaarNietInHetDomeinVanSuperEarth"
     },
     {
       "day": 62,
       "text": "Je ontvangt een bericht van de Belastingdienst dat je geld terugkrijgt.\nJammer genoeg is de Belastingdienst nooit de afzender van dat soort e-mails en sms’jes. Dit is een cybercrimineel die je bankrekening wil plunderen. Meestal ben je bij de Belastingdienst goedkoper uit.",
-      "image": "Belastingdienst"
+      "image": "GeldTerugVanDeBelastingDienstVoeltAlsEenScam"
     },
     {
       "day": 63,
@@ -318,7 +318,7 @@
     {
       "day": 64,
       "text": "Check de betrouwbaarheid van een webshop op https://webshopchecker.nl",
-      "image": "FakeShop"
+      "image": "CheckUwFakeShopOpEchtheid"
     },
     {
       "day": 65,
@@ -328,7 +328,7 @@
     {
       "day": 66,
       "text": "Het Centrum voor Cybersecurity België lanceerde een awareness-campagne onder de slogan \"6.491.641 miljoen Belgen helpen cybercriminelen\". Het cijfer sloeg op het aantal mensen dat hun computer, tablet of smartphone onvoldoende beveiligt.",
-      "image": "Password"
+      "image": "BelgischeBlamage"
     },
     {
       "day": 67,
@@ -338,7 +338,7 @@
     {
       "day": 68,
       "text": "Overal een belachelijk sterk wachtwoord? Daar zijn (gratis) programma’s of apps voor, zoals Bitwarden, Mindyourpass, Dashlane of 1Password. Deze voeren automatisch overal een ander sterk wachtwoord voor je in.",
-      "image": "Password"
+      "image": "GratisSterkWachtwoord"
     },
     {
       "day": 69,
@@ -348,7 +348,7 @@
     {
       "day": 70,
       "text": "Om de apparaten die je koopt, zit een soort kasteelmuur aan beveiliging. Het probleem is dat die muur snel barsten vertoont. De enige manier om die te repareren is updaten.",
-      "image": "IOT"
+      "image": "KasteelMuurApparaatBeveiliging"
     },
     {
       "day": 71,
@@ -363,17 +363,17 @@
     {
       "day": 73,
       "text": "Deel af en toe een blaadje van deze #cyberkalender op social media. Dan zie je via de hashtag wat anderen gedeeld hebben. En ook nieuwe vormen van oplichting.",
-      "image": "SocialMedia2"
+      "image": "DeelMijnCyberKalenderTipsGrtsDeEditor"
     },
     {
       "day": 74,
       "text": "Phishingmails bevatten vaak links. In eerste instantie ziet de link er oké uit. Maar als je je muis over de link beweegt, zie je een vreemde website verschijnen. Gelukkig doen de meeste cybercriminelen niet hun best.",
-      "image": "PostNLPhishing"
+      "image": "EvilAssWebsiteHehHeh"
     },
     {
       "day": 75,
       "text": "Digital Clean Up Day\nMooie aanleiding om oude e-mails op te ruimen en ook de apps die je niet meer gebruikt.\nTips op digitalcleanupday.org",
-      "image": "FilesClean"
+      "image": "CleanMijnLevenCleanMijnHart"
     },
     {
       "day": 76,
@@ -398,12 +398,12 @@
     {
       "day": 80,
       "text": "Zie je woorden zoals “DRINGEND”, “URGENT”, “BELANGRIJK” of “LAATSTE HERINNERING” in een e-mail? Dan is het bericht van een oplichter. Of je moet een echte wanbetaler zijn.",
-      "image": "AccountPhishing"
+      "image": "UrgenteScamWoorden"
     },
     {
       "day": 81,
       "text": "Controleer met gratis diensten zoals Have I Been Pwned of Gotcha welk van je wachtwoorden al in handen van cybercriminelen is. Verander snel dat wachtwoord.",
-      "image": "Password"
+      "image": "HaveThineBeenPwnd"
     },
     {
       "day": 82,
@@ -413,7 +413,7 @@
     {
       "day": 83,
       "text": "Je data alleen in de cloud bewaren, is net zoiets als denken dat je veilig bent met een paraplu in een tornado.\nMaak een reservekopie van je meest belangrijke data.",
-      "image": "Cloud"
+      "image": "TornadoParaplu"
     },
     {
       "day": 84,
@@ -428,12 +428,12 @@
     {
       "day": 86,
       "text": "Ongeveer 60 procent van alle e-mails ter wereld is spam. Hoe komen ze aan jouw e-mailadres? Vaak heb je het ingevoerd op een website die gehackt is. Een andere keer heb je meegedaan aan een winactie op social media. \nVoor negen euro kopen criminelen 250.000 Nederlandse e-mailadressen die ze kunnen spammen.",
-      "image": "PostNLPhishing"
+      "image": "ProcentSpammage"
     },
     {
       "day": 87,
       "text": "Stuur een lief sms’je naar een collega of vriend. Dat maakt jou blij en ook de ontvanger, want iedereen vindt waardering leuk.\nVoor de mannen die het nog niet begrepen hebben: ‘Je bent de knapste cyberpoes van de IT-afdeling is vast goed bedoeld, maar de meeste vrouwen vinden dat soort complimenten niet oké.",
-      "image": "Compliment"
+      "image": "ProbeerAlleenNietCreepyOverTeKomen"
     },
     {
       "day": 88,
@@ -448,7 +448,7 @@
     {
       "day": 90,
       "text": "Back Up Day.\nMaak vandaag een back-up. Je digitale schatten moet je koesteren als de laatste zak chips in huis tijdens een filmavond.",
-      "image": "Cloud"
+      "image": "ChipsBackUp"
     },
     {
       "day": 91,
@@ -458,7 +458,7 @@
     {
       "day": 92,
       "text": "In Nederland heb je rare plaatsnamen, zoals:\nKijkuit\nHongerige Wolf\nDoosje\nRaar\nBoerenhol\nNummer Een\nWarm en Ziek\nNooit gedacht\nIs dit een verlate 1 aprilgrap? \nNou, nee. Het positieve van het internet is dat je alles kunt checken.",
-      "image": "Wales"
+      "image": "NederlandseRariteitPlaatsjes"
     },
     {
       "day": 93,
@@ -468,7 +468,7 @@
     {
       "day": 94,
       "text": "De langste Nederlandse plaatsnaam, geschreven als één woord is Gasselterboerveenschemond, in Drenthe. Plaatsnamen zijn geen sterke wachtwoorden, maar wel als je 1 letter vergeet. Je mag zelf kiezen welke, bijvoorbeeld de laatste. Dan krijg je Gasselterboerveenschemon. De echte plaatsnamen zijn al ingevoerd in programma’s waarmee cybercriminelen wachtwoorden snel kraken. \nDus tikfouten maken is goed. Laat je lerares Nederlands dat maar niet horen.",
-      "image": "Wales"
+      "image": "VertelHetWelAanJeNederlandsDocent"
     },
     {
       "day": 95,
@@ -478,7 +478,7 @@
     {
       "day": 96,
       "text": "Het Britse Bijbelgenootschap werd gehackt door een te zwak wachtwoord. Een cybercrimineel kreeg toegang tot het systeem met creditcardgegevens, bankgegevens en contactgegevens van ruim 400.000 donateurs. Volgens de Bijbel is een zwak wachtwoord geen zonde, maar de Britse privacy-toezichthouder dacht daar anders over en legde een boete van ruim honderdduizend euro op.",
-      "image": "Password"
+      "image": "BijbelsWachtwoord"
     },
     {
       "day": 97,
@@ -493,7 +493,7 @@
     {
       "day": 99,
       "text": "Als je computer gehackt wordt omdat je de updates niet hebt gedaan, wat verzin je dan als smoes? Toch niet: ‘Ik probeerde te updaten, maar mijn computer zei dat hij eerst zijn sterrenbeeld moest raadplegen voor een gunstig moment.’",
-      "image": "Ransomware"
+      "image": "SterrenbeeldMonitor"
     },
     {
       "day": 100,
@@ -503,27 +503,27 @@
     {
       "day": 101,
       "text": "Je gelooft het niet, maar er zijn echt mensen die hun hoofd in een afvalbak steken op zoek naar vertrouwelijke documenten.\nHeb je een papierversnipperaar?",
-      "image": "FilesClean"
+      "image": "VertrouwlijkAfvalHoofd"
     },
     {
       "day": 102,
       "text": "Heel soms vragen bedrijven je om iets in een account te wijzigen. \nCybercriminelen vragen je dat veel vaker. Hoe zie je het verschil? Meestal aan twee dingen: een normaal bedrijf vraagt je nooit om dat binnen 24 uur te doen. En een normaal bedrijf dreigt ook niet met het opheffen van je account.",
-      "image": "AccountPhishing"
+      "image": "AccountGegevensWijzigen"
     },
     {
       "day": 103,
       "text": "Heb je een aankoop gedaan bij een nep webshop? Of ben je opgelicht via WhatsApp? Je kunt naam, adres en woonplaats van de fraudeur opvragen bij je eigen bank. De oplichter krijgt drie weken de tijd om het bedrag terug te betalen. Daarna kun je via een deurwaarder je geld terugkrijgen. LAVG doet dat voor veel slachtoffers. Je hoeft niets voor te schieten.",
-      "image": "FakeShop"
+      "image": "LAVGFTW"
     },
     {
       "day": 104,
       "text": "Wachtwoorden voor minder belangrijke sites kun je beter vergeten in plaats van overal hetzelfde wachtwoord te gebruiken. Typ een willekeurige zin om in te loggen op een website die je weinig gebruikt. Een jaar later weet je het vast niet meer. Een wachtwoord reset is zo gebeurd.",
-      "image": "Password"
+      "image": "VergeetbareWachtwoorden"
     },
     {
       "day": 105,
       "text": "Nederlanders doen gemiddeld één miljoen bestellingen per dag. Vooral bij buitenlandse webwinkels.\nDus als je een berichtje krijgt van een postbezorgservice en je hebt toevallig iets besteld, is dat toevallig goede timing.  \nGoogle zelf de website om daar te checken hoe laat je pakje aankomt. Dit is altijd veel veiliger dan via de link.",
-      "image": "PostNLPhishing"
+      "image": "CheckJeBestellingLekkerZelluf"
     },
     {
       "day": 106,
@@ -533,12 +533,12 @@
     {
       "day": 107,
       "text": "Je ontvangt een sms van de Belastingdienst dat je een bedrag niet hebt voldaan en dat de gerechtsdeurwaarder binnenkort beslag legt op je eigendommen. Veel mensen die zo’n bericht ontvangen schrikken zich rot.\nMaar de Belastingdienst communiceert nooit per sms of WhatsApp. Als je iets moet betalen, ontvang je een brief.",
-      "image": "Belastingdienst"
+      "image": "BelastingDienstDoetNietAanSMS"
     },
     {
       "day": 108,
       "text": "Vandaag is het Nationale Secretaressedag.\nStuur de secretaresse een lief digitaal compliment.\nOf laat een onbekende bloemen en een usb-stick bezorgen. De bloemen mag ze houden, de usb-stick levert ze als het goed is als ‘verdacht’ bij de IT-afdeling in. Het is vaker voorgenomen dat een bedrijf gehackt werd met een usb-stick.",
-      "image": "Compliment"
+      "image": "SecretarisDagHuzzah"
     },
     {
       "day": 109,
@@ -548,7 +548,7 @@
     {
       "day": 110,
       "text": "Mag je een heel sterk wachtwoord voor meerdere websites gebruiken?\nHelaas is dat onveilig. Als de hackers één website hacken, komen ze overal binnen met dat ene wachtwoord. Dan krijgen ze bijvoorbeeld toegang tot je e-mail of gmail en kunnen ze alle andere wachtwoorden resetten.",
-      "image": "Password"
+      "image": "HoofdWachtwoordNietDoen"
     },
     {
       "day": 111,
@@ -578,7 +578,7 @@
     {
       "day": 116,
       "text": "Nog steeds worden mensen gebeld door Microsoft dat ze een virus in hun computer hebben. De nep medewerkers helpen je graag, vooral met het plunderen van je bankrekening.\nWie kun je nog aan de telefoon vertrouwen? Eigenlijk niet veel mensen. Ook niet al die mensen die bellen namens banken, de rechtbank of de politie. De schade door de zogenaamde ‘helpdeskfraude’ bedraagt elk jaar miljoenen.",
-      "image": "KlikLinkVirus"
+      "image": "HelloImFromMicrosoftTechSupport"
     },
     {
       "day": 117,
@@ -588,7 +588,7 @@
     {
       "day": 118,
       "text": "Het beste moment om te ontspannen is als je er geen tijd voor hebt. \nLock eerst je computer. Maak dan een ommetje.",
-      "image": "Stretchen"
+      "image": "OntspanningsWalk"
     },
     {
       "day": 119,
@@ -598,17 +598,17 @@
     {
       "day": 120,
       "text": "Cybercriminelen hebben inmiddels de persoonlijke gegevens van 412 miljoen gebruikers van dating- en sekssites gestolen. Veel mensen blijken een e-mail met hun volledige naam of zelfs hun bedrijfsmail te gebruiken. Ze worden soms afgeperst.",
-      "image": "SocialMedia2"
+      "image": "HetStelenVanAlUwDataIsErg"
     },
     {
       "day": 121,
       "text": "Privacyorganisatie Bits of Freedom steunt mensen die af willen van hun social media verslaving. Doe je mee aan Mei Sociaal Vrij? Je kun je aanmelden op meisociaalvrij.nl om handige tips te ontvangen.",
-      "image": "CellPhones"
+      "image": "MeiVrijBitsOfFreedom"
     },
     {
       "day": 122,
       "text": "Namen van voetbalclubs zijn geliefd als wachtwoorden. En het maakt niet uit dat Ajax het helemaal niet goed doet, veel mensen blijven nog steeds wachtwoorden zoals Ajax020# Gebruiken. Met het wachtwoord Feyenoord13! kun je je favoriete voetbalclub ook niet steunen, wel de cybercriminelen.",
-      "image": "Password"
+      "image": "PSVWegDrMee"
     },
     {
       "day": 123,
@@ -618,7 +618,7 @@
     {
       "day": 124,
       "text": "Vandaag is het Wereld Wachtwoorddag. Zorg dat je voor je werk een heel ander wachtwoord hebt dan voor privé accounts. Dit is het minste wat je kunt doen om op deze dag je werkgever blij te maken.",
-      "image": "Password"
+      "image": "WereldWachtWoordenDag"
     },
     {
       "day": 125,
@@ -628,7 +628,7 @@
     {
       "day": 126,
       "text": "Verwijder af en toe alle oude berichten en foto’s van social media. Best goed voor je privacy. Scrol terug in de tijd om te zien hoe mooi je was. En misschien schrik je ook ergens van.",
-      "image": "FilesClean"
+      "image": "ScrollenMaarMensenScrollVoorUwLeven"
     },
     {
       "day": 127,
@@ -638,7 +638,7 @@
     {
       "day": 128,
       "text": "Check wat je deelt met Google op myaccount.google.com\nMinder delen mag altijd.",
-      "image": "SocialMedia"
+      "image": "CheckWatJeDeeltJeDataIsGeldWaard"
     },
     {
       "day": 129,
@@ -663,7 +663,7 @@
     {
       "day": 133,
       "text": "Klik niet zomaar op links van bekende afzenders. Ga eerst met je muis over de link (zonder te klikken). Dan verschijnt er een balkje met daarin de daadwerkelijke link. Zie je vreemde tekens of getallen? Bijvoorbeeld Rabobank-463740957.nl. Dat is altijd oplichting.",
-      "image": "SusNumbers"
+      "image": "Anonymous"
     },
     {
       "day": 134,
@@ -682,7 +682,7 @@
     },
     {
       "day": 137,
-      "text": "Hotels in het buitenland vragen vaak je paspoort. Gebruik de gratis Kopie ID app van de overheid om een kopie met een watermerk naar de receptie te mailen, terwijl je daar staat. Zo’n kopie is beter beschermd tegen fraude.",
+      "text": "Pas op voor fraude met paspoorten en ID-bewijzen.",
       "image": "KopieID"
     },
     {
@@ -692,7 +692,7 @@
     },
     {
       "day": 139,
-      "text": "Laptops die niet gelockt worden, worden soms gestolen, ook uit kantoren. Dan heeft de dief toegang tot alles. \nJe scherm vergrendelen is simpel: de Windows-toest ingedrukt houden + L (van ‘lock’).",
+      "text": "Met 2 toetsen voorkom je ellende.",
       "image": "SluitJeLaptop"
     },
     {
@@ -703,7 +703,7 @@
     {
       "day": 141,
       "text": "Zie elke dag als een kans om een goede daad op je werk te verrichten. Ontvang je een phishingmail? Stuur die door naar de IT-afdeling.",
-      "image": "PhisingDoorsturen"
+      "image": "SuspiciousEmail"
     },
     {
       "day": 142,
@@ -717,7 +717,7 @@
     },
     {
       "day": 144,
-      "text": "Neem elke dag een computerpauze en combineer die met wat stoelyoga. Plaats je rechterhand op de buitenkant van je linkerknie en je linkerhand op de armleuning van de stoel. Draai langzaam je bovenlichaam naar links terwijl je inademt. Houd deze positie vast terwijl je uitademt. Herhaal aan de andere kant.",
+      "text": "Kleine computerpauze",
       "image": "StoelYoga"
     },
     {
@@ -728,16 +728,16 @@
     {
       "day": 146,
       "text": "Tijd voor een gezinsgesprek. Vraag aan je kinderen of ze soms online door onbekenden benaderd worden voor een chat. En ook of ze foto’s ontvangen. Het gebeurt veel vaker dan ouders denken.",
-      "image": "GezinsGesprek"
+      "image": "FamilyTalk"
     },
     {
       "day": 147,
-      "text": "In het voorjaar kun je op beleefdelente.nl vogels en hun kleintjes bespieden in hun nest. \nKoop een webcamcover voor je computer thuis, zodat een hacker je niet in jouw nest kan bespieden.",
+      "text": "Vogels en hackers",
       "image": "VogelBespieden"
     },
     {
       "day": 148,
-      "text": "Temu is een van de meest populaire apps voor goedkope spullen uit China. Verwijder de app direct na ontvangst van je bestelling. Deze app probeert zo veel mogelijk informatie uit je mobiel te trekken. Ook als je de app niet gebruikt.",
+      "text": "Spionerende app",
       "image": "WegMetTemu"
     },
     {
@@ -763,32 +763,32 @@
     {
       "day": 153,
       "text": "Er is moed nodig om op te staan en te spreken en er is nog meer moed nodig om te gaan zitten en te luisteren’.\nToen Winston Churchill dat schreef, had hij geen idee dat het luisteren een industrie gaat worden in de vorm van datingfraude. Miljoenen mensen voelen zich begrepen en geliefd, eindelijk luistert iemand naar ze en toont echte belangstelling. Helaas is dat van korte duur. Tot je een groot bedrag overmaakt.",
-      "image": "Churchill"
+      "image": "GuyScamsWomen"
     },
     {
       "day": 154,
-      "text": "Oplichters registreren websites met tikfouten, zoals www.amaz0n.com of www.êfteling.nl. \nZie je een klein verschil? Wegwezen.",
+      "text": "Gevaarlijke kleine verschillen",
       "image": "FalseSites"
     },
     {
       "day": 155,
-      "text": "Weet je waar mensen bijzonder goed in zijn? In voorspelbare wachtwoorden. Bij datalekken zie je mooie databases, zoals die van de leden van de Elfstedentocht. De meeste wachtwoorden pasten in het rijtje: \nSchaatsendeAnne\nJensschaatst\nGeertschaatst2013\n\nJe zou maar het woord schaatsen niet gebruiken.",
+      "text": "Weet je waar mensen bijzonder goed in zijn? In voorspelbare wachtwoorden. Bij datalekken zie je mooie databases, zoals die van de leden van de Elfstedentocht. De meeste wachtwoorden pasten in het rijtje: \nSchaatsendeAnne\nJensschaatst\nGeertschaatst2013",
       "image": "IceSkaters"
     },
     {
       "day": 156,
       "text": "Deel niet zomaar berichten op social media, zelfs als het om een goed doel gaat, zoals de vermissing van een kind of een huisdier. Dat soort berichten komen steeds vaker van cybercriminelen die je vervolgens een inlogscherm van bijvoorbeeld Facebook laten zien. Als je inlogt om het bericht te delen, wordt je account overgenomen.",
-      "image": "MissingPrince"
+      "image": "MissingCat"
     },
     {
       "day": 157,
-      "text": "Binnenkort vakantie. Lekker. Balen dat de online oplichters nooit op vakantie zijn.",
+      "text": "Mooi vooruitzicht?",
       "image": "CyberVakantie"
     },
     {
       "day": 158,
       "text": "Je slimme apparaten zijn direct na aankoop veilig (als je mazzel hebt). Maar veel fabrikanten worden in de loop der jaren slordiger met updates en dan zijn ze te hacken. Van babyfoon tot slimme koffiezetter. De webste van een juwelier in Nederland lag constant plat, omdat die aangevallen werd door 50.000 gehackte camera’s van nietsvermoedende eigenaren. \nKoppel niet elk nieuw smart apparaat aan het internet. Behalve als je echt niet kunt leven zonder een slimme vaatwasser of een smart koelkast.",
-      "image": "SlimmeOnveiligheid"
+      "image": "SmartEvilDevices"
     },
     {
       "day": 159,
@@ -797,7 +797,7 @@
     },
     {
       "day": 160,
-      "text": "Thuis is waar de bh uit mag en Netflix aan mag. En waar je niet mag vergeten om ook je smart tv te updaten. In het verleden hebben cybercriminelen via camera’s ingebouwd in sommige tv’s de bewoners begluurd.",
+      "text": "Slimme gluurders",
       "image": "VeiligeTV"
     },
     {
@@ -807,12 +807,12 @@
     },
     {
       "day": 162,
-      "text": "Een online lover die je geweldig vindt precies zoals je bent? Dit soort scams geloof je toch niet? Alleen de muggen vinden je geweldig zoals je bent.",
+      "text": "Online zijn we soms best naïef.",
       "image": "MuggenLover"
     },
     {
       "day": 163,
-      "text": "FOMO (Fear Of Missing Out) is een moderne ziekte. Kijk je ook vaak op je telefoon omdat je bang bent iets te missen? Verwijder tijdelijk slechts één app, juist de app die constant om aandacht vraagt. Je kunt na een paar dagen inloggen via de website. Wat heb je precies gemist? Hoe erg is dat?",
+      "text": "Online afkicken.",
       "image": "FOMO"
     },
     {
@@ -822,7 +822,7 @@
     },
     {
       "day": 165,
-      "text": "Word je gebeld door een onbekend nummer? Voer het in op Google. Zo kom je er snel achter of er ervaringen zijn van andere mensen die door dit nummer zijn gebeld. \nGemiste oproep uit Sri Lanka? Bedenk eerst hoeveel kennissen je daar hebt.",
+      "text": "Simpel te checken.",
       "image": "SriLankaCaller"
     },
     {
@@ -843,16 +843,16 @@
     {
       "day": 169,
       "text": "Dankzij kunstmatige intelligentie is het simpel geworden om de stem van je leidinggevende te imiteren en hem of haar te laten zeggen dat je met spoed een bedrag naar een rekening moet overmaken. Twijfel je? Bel het bekende nummer voor bevestiging.",
-      "image": "OnbekendeNummers"
+      "image": "CEOPhoneFraud"
     },
     {
       "day": 170,
-      "text": "Cybercriminelen zijn meesters in manipuleren. Ze maken gebruik van:\n1. Onwetendheid\n2. Angst\n3. Hebzucht\n4. Vertrouwen\n5. Nieuwsgierigheid\nWelke van deze vijf is jouw mogelijke zwakte online?",
+      "text": "Cybercriminelen maken gebruik van:\n1. Onwetendheid\n2. Angst\n3. Hebzucht\n4. Vertrouwen\n5. Nieuwsgierigheid\nWelke van deze vijf is jouw mogelijke zwakte online?",
       "image": "ManipulatieMeneer"
     },
     {
       "day": 171,
-      "text": "Veel mensen schrokken zich rot toen ChatGPT opeens onzin begon uit te kramen, urenlang. Zelfs de meest simpele vragen kregen een warrig antwoord. Bijvoorbeeld wat een computer is. ChatGPT zei: \"Het doet dit goede werk van een web van kunst voor het land, een muis van de wetenschap, een gemakkelijke trekking van een triest paar…”\nOpenAI, de maker van ChatGPT, verklaarde dat het probleem veroorzaakt werd door een fout na een 'optimalisatie’. Het model koppelt tekstfragmenten aan een nummer. ChatGPT koos opeens de verkeerde nummers en schreef zinnen die nergens op sloegen.",
+      "text": "Veel mensen schrokken zich rot toen ChatGPT opeens onzin begon uit te kramen, urenlang. Zelfs de meest simpele vragen kregen een warrig antwoord. Bijvoorbeeld wat een computer is.\nOpenAI, de maker van ChatGPT, verklaarde dat het probleem veroorzaakt werd door een fout na een 'optimalisatie’. Het model koppelt tekstfragmenten aan een nummer. ChatGPT koos opeens de verkeerde nummers en schreef zinnen die nergens op sloegen.",
       "image": "KramenGPT"
     },
     {
@@ -862,7 +862,7 @@
     },
     {
       "day": 173,
-      "text": "Niets laat je sneller naar adem happen dan een onaangekondigd bezoek van je schoonmoeder. Behalve een onaangekondigd bezoek van een hacker. Als je een simpel herstelplan maakt (wie kan je meteen helpen) hoef je minder naar adem te happen. Misschien kan de hackhelpdesk.nl iets voor je betekenen. Die zijn er vooral om kleine bedrijven te helpen.",
+      "text": "Plotseling gevaar",
       "image": "HackendeSchoonmoeder"
     },
     {
@@ -872,12 +872,12 @@
     },
     {
       "day": 175,
-      "text": "Niets is eeuwig in deze wereld. Zelfs je computerproblemen niet.",
+      "text": "Troost nodig?",
       "image": "EeuwigeComputerProblemen"
     },
     {
       "day": 176,
-      "text": "De zes beste dokters in de wereld:\nZonneschijn\nRust\nBeweging\nGezond eten\nZelfwaardering\nVrienden \nEn … iets minder schermtijd om de schoonheid van de wereld om ons heen te zien.",
+      "text": "De zes beste dokters in de wereld…",
       "image": "ZevenDokters"
     },
     {
@@ -888,11 +888,11 @@
     {
       "day": 178,
       "text": "Opa maakt een wachtwoord precies volgens de regels: 8 characters, one capital and one figure.\nZijn wachtwoord? \nmickeyminniegoofyplutodonaldkwikkwekkwakParijsdriehoek.",
-      "image": "OpaWachtwoord"
+      "image": "GrandpaPassword"
     },
     {
       "day": 179,
-      "text": "Op de site van de politie www.politie.nl kun je van tevoren checken of iemand een oplichter is. Als er al meerdere aangiftes gedaan zijn, dan wordt dat openbaar gemaakt. Je kunt bijvoorbeeld op naam, rekeningnummer, bedrijfsnaam en telefoonnummer zoeken.",
+      "text": "Op de site van de politie www.politie.nl kun je van tevoren checken of iemand een oplichter is. Je kunt zoeken op bijvoorbeeld rekeningnummer of een telefoonnummer.",
       "image": "PolitieNL"
     },
     {
@@ -912,7 +912,7 @@
     },
     {
       "day": 183,
-      "text": "Gestolen iPhones kunnen vaak niet opgespoord worden. Het eerste wat dieven doen is ze in de vliegtuigstand zetten. Dit kun je simpel voorkomen.\nTik op de app Instellingen > ‘Face ID en toegangscode’ of ‘Touch ID en toegangscode’.\nTyp je toegangscode in. Scrol naar ‘Toegang bij vergrendeling’.\nZet het schuifje uit achter ‘Bedieningspaneel’.\nEen dief kan nu niet meer bij de vliegtuigstand zonder je toegangscode.",
+      "text": "Beveilig je telefoon tegen dieven.",
       "image": "VroemIkBenEenVliegtuig"
     },
     {
@@ -942,7 +942,7 @@
     },
     {
       "day": 189,
-      "text": "Wil je weten of je e-mailadres en telefoonnummer al in handen zijn van cybercriminelen? Zoek op politie.nl op ‘checkjehack’ of ‘online fingerprint’.",
+      "text": "Hoeveel gevaar loop je online?",
       "image": "CyberTelefoon"
     },
     {
@@ -952,7 +952,7 @@
     },
     {
       "day": 191,
-      "text": "Je kunt bij betaalsysteem iDEAL een profiel aanmaken. Als je online winkelt en afrekent met iDEAL Snel Bestellen, herkent iDEAL je profiel. Je wordt dan direct doorgeleid naar je bankomgeving in plaats van dat je al je gegevens in moet vullen. Het iDEAL-profiel maak je aan via je bank.",
+      "text": "Hoe verspreid je minder persoonlijke gegevens?",
       "image": "EenIdealProfiel"
     },
     {
@@ -972,22 +972,22 @@
     },
     {
       "day": 195,
-      "text": "De meeste mensen besteden het grootste deel van hun tijd aan het nadenken over zichzelf en wat anderen over ze zouden kunnen denken. Maar daar zijn de anderen helemaal niet mee bezig, ze denken ook vooral over zichzelf na. \nDenkt dan echt niemand aan jou? Jawel. De cybercriminelen zijn echt in je geïnteresseerd.",
+      "text": "Wie is echt geïnteresseerd in jou?",
       "image": "CrimineleIntresse"
     },
     {
       "day": 196,
-      "text": "De helft van al het internetverkeer komt niet van mensen, maar van bots, ook kwaadaardig. Ze proberen websites over te nemen, transporteren virussen en proberen accounts te kapen.",
+      "text": "Van wie is het internet?",
       "image": "InternetBots"
     },
     {
       "day": 197,
-      "text": "Veel mensen kregen via social media het bericht ‘Ben jij dat in deze film?’ Wie uit nieuwsgierigheid klikte, werd gehackt.\nCheck altijd of de link naar YouTube gaat door een paar seconden bovenop de link te zweven met je muis. Als de link verandert en leidt naar een onbekende website: loslaten.\nEn zeker niet je wachtwoord invullen om naar het filmpje te kijken.",
+      "text": "Veel mensen kregen via social media het bericht ‘Ben jij dat in deze film?’ Wie uit nieuwsgierigheid klikte, werd gehackt.",
       "image": "FilmTube"
     },
     {
       "day": 198,
-      "text": "Moeite met originele wachtwoorden verzinnen? Laat je dan inspireren door enkele bijzondere straatnamen in Nederland en België:\nEendekotsweg\nPijpstraat\nFuckspad\nOude zak\nSlapperdel\nHondegatstraat\nPisbuiten\nPoepershoek\nZullen we doorgaan? \nLaat maar, de hackers hebben het al opgegeven.",
+      "text": "Inspiratie om originele wachtwoorden te verzinnen…",
       "image": "StraatNaamWoorden"
     },
     {
@@ -1007,13 +1007,13 @@
     },
     {
       "day": 202,
-      "text": "Leeg geregeld de prullenmand van je computer. Een verwijderde kopie\nvan je paspoort is zo teruggehaald door een hacker als je je prullenbak niet leegt.",
+      "text": "Even opschonen?",
       "image": "CleanYourTrash"
     },
     {
       "day": 203,
       "text": "Heb je op het werk per ongeluk geklikt op een phishingmail? Meld het aan de IT-afdeling en zet je computer zo snel mogelijk uit (of verbreek de verbinding met het internet) om besmetting van de andere computers te voorkomen.",
-      "image": "PhisingShield"
+      "image": "PhishingWork"
     },
     {
       "day": 204,
@@ -1022,7 +1022,7 @@
     },
     {
       "day": 205,
-      "text": "Stel een Google Alert op je naam in, zodat je een seintje krijgt wanneer er iets over je op het internet verschijnt. Dat werkt vooral bij namen die niet heel standaard zijn, anders krijg je mogelijk ook meldingen over mensen met dezelfde naam.",
+      "text": "Preventie tegen identiteitsfraude?",
       "image": "GoogleAlertNaam"
     },
     {
@@ -1037,12 +1037,12 @@
     },
     {
       "day": 208,
-      "text": "www.webwinkelchecker.nl is een gratis hulpmiddel om te checken of anderen negatieve ervaringen met een webshop hebben. Het waarschuwt ook voor faillissementen en misbruik van keurmerken.",
+      "text": "Miskoop voorkomen?",
       "image": "WebWinkerChecker"
     },
     {
       "day": 209,
-      "text": "Werk voordat je online gaat betalen je besturingssysteem bij met de nieuwste updates. Het gratis programma Scancircle www.scancircle.com/nl laat je de zwakheden in je computer zien.",
+      "text": "Veilig online betalen.",
       "image": "ScanCircle"
     },
     {
@@ -1052,17 +1052,17 @@
     },
     {
       "day": 211,
-      "text": "Een dagje geen smartphone? Probeer het maar. \nZo kun je ervaren hoe je grootouders geleefd hebben. Wat deden ze zonder smartphone?",
+      "text": "Hoe lang houd je het vol?",
       "image": "SmartphoneBoomers"
     },
     {
       "day": 212,
-      "text": "Een beetje verslaafd aan je mobiel? Met de app Forest krijg je beloning voor het afblijven van je telefoon.",
+      "text": "Even afkicken.",
       "image": "RunForestRun"
     },
     {
       "day": 213,
-      "text": "Je klikt op een link in een e-mail en boem! - je computer besluit om opeens met pensioen te gaan.\nMaak back-ups. Dan hoef je niet bang te zijn dat al je bestanden zeggen: ‘Dag baasje, tot nooit meer ziens!’",
+      "text": "Je klikt op een link in een e-mail en boem! - je computer besluit om opeens met pensioen te gaan.\nMaak back-ups.",
       "image": "ExplosieveEmail"
     },
     {
@@ -1077,17 +1077,17 @@
     },
     {
       "day": 216,
-      "text": "De gemiddelde vrouw staat tijdens haar leven 287 dagen voor de kledingkast. Dat voorkomt niet dat veel vrouwen naakt ergens online belanden. \nBewaar spannende selfies niet niet in je computer. En ook niet in je mobiel. Wel op een beveiligde usb-stick. \nEn alleen als ze echt mooi zijn.",
+      "text": "De gemiddelde vrouw staat tijdens haar leven 287 dagen voor de kledingkast. Dat voorkomt niet dat veel vrouwen naakt ergens online belanden. \nBewaar spannende selfies niet in je computer of mobiel.",
       "image": "USBKleding"
     },
     {
       "day": 217,
       "text": "Mannen blijven kinderen. Alleen het speelgoed wordt duurder. Met wifi.",
-      "image": "WifiAuto"
+      "image": "WifiToys"
     },
     {
       "day": 218,
-      "text": "Als niets zeker is, is alles mogelijk.\nZelfs dat we op een dag met z’n allen overstappen van WhatsApp naar Signal. Deze app werkt net zo makkelijk en is geen eigendom van een bigtech bedrijf.",
+      "text": "Als niets zeker is, is alles mogelijk. Ook qua privacy.",
       "image": "SignalOfWhatsapp"
     },
     {
@@ -1097,12 +1097,12 @@
     },
     {
       "day": 220,
-      "text": "Cyberaanvallen zijn duur. Jaguar Land Rover kreeg na een hack 1,7 miljard euro financiële steun van de Britse regering en van een bank. De lening moet helpen bij het herstarten van de productie van fabrieken die ruim een maand niet konden werken.",
+      "text": "Cyberaanvallen kosten steeds meer.",
       "image": "JaguarAttack"
     },
     {
       "day": 221,
-      "text": "Er zijn criminelen die graag op social media rondneuzen. Als je vertelt dat je op vakantie gaat, komen ze je huis leeghalen. Post je foto's van de blauwe zee in Bulgarije en je cocktails pas op de dag van terugkomst. Zo beleven de dieven geen plezier aan je vakantie.",
+      "text": "Cybercriminelen lezen ook mee.",
       "image": "NaVakantieFoto"
     },
     {
@@ -1112,12 +1112,12 @@
     },
     {
       "day": 223,
-      "text": "Benieuwd naar wat AI allemaal kan? Hugging Face is een platform waar heel veel mensen AI-tools beschikbaar stellen voor tekst, beeld, vertaling, etc.  https://huggingface.co",
+      "text": "Wat kun je allemaal met AI?",
       "image": "HuggingFace"
     },
     {
       "day": 224,
-      "text": "Niets is eeuwig in het leven. Zelfs als je opeens bergen spam krijgt, geven de cybercriminelen het na een tijdje op als ze zien dat je hun berichten niet opent.",
+      "text": "Te veel spam?",
       "image": "UnasweredSpam"
     },
     {
