@@ -353,7 +353,7 @@
     {
       "day": 71,
       "text": "Wat denkt een kat die op een phishingmail geklikt heeft die door een verouderde versie van Google Translate lijkt te zijn vertaald?\n‘What an offgang. I shame me to pletter.’\nEen slimme kat meldt dat altijd bij de IT-afdeling.",
-      "image": "CatBUS"
+      "image": "CatBus"
     },
     {
       "day": 72,
@@ -408,7 +408,7 @@
     {
       "day": 82,
       "text": "Phishingmails herkennen lijkt taaie kost. Maar juist het woord ‘taai’ is de sleutel om ze te ontmaskeren.\nT staat voor tijdsdruk, ze vragen om een snelle reactie.\nA staat voor angst, ze proberen je bang te maken.\nA staat voor actie, ze willen dat je iets doet.\nI staat voor inlog, ze willen dat je inlogt. Of iets installeert.",
-      "image": "PostNL"
+      "image": "TaaiePhisingTrick"
     },
     {
       "day": 83,
@@ -483,7 +483,7 @@
     {
       "day": 97,
       "text": "Beschouw phishing e-mails als mindfulness oefeningen. Ze leren je geduld, aandacht voor detail en hoe je diep adem moet halen voordat je reageert.",
-      "image": "PostNL"
+      "image": "AltijdMindfullPhising"
     },
     {
       "day": 98,
@@ -553,17 +553,17 @@
     {
       "day": 111,
       "text": "Feit: er sterven meer mensen door het maken van een selfie op een onveilige plek dan door aanvallen van haaien.",
-      "image": "Selfie"
+      "image": "OnveiligeSelfieHaaien"
     },
     {
       "day": 112,
       "text": "Gebruik je ChatGPT? Kopieer geen persoonlijke gegevens van anderen erin, vervang ze door een ‘X’. Ook die van jezelf. Want je wilt niet dat die gegevens ergens anders opduiken, omdat je het programma ermee traint.",
-      "image": "ChatgptData"
+      "image": "ChatGPXJeGegevens"
     },
     {
       "day": 113,
       "text": "Hoe sneller je een datalek meldt, hoe kleiner de puinhoop achteraf. \nSchaam je niet. Niet iedereen is acht uur per dag zo scherp als een mes, toch?",
-      "image": "Dataleak"
+      "image": "DatalekPuinhoopMeldenOptijd"
     },
     {
       "day": 114,
@@ -593,7 +593,7 @@
     {
       "day": 119,
       "text": "Bekende AI tools zijn Google Gemini, Microsoft Copilot en ChatGPT. Geef ze dezelfde opdracht en laat ze elkaars antwoorden bekritiseren. \nChatbots zijn goed in zelfkritiek. Net als je collega, toch?",
-      "image": "ChatgptData"
+      "image": "AIToolsVerschillenMetElkaar"
     },
     {
       "day": 120,
@@ -613,7 +613,7 @@
     {
       "day": 123,
       "text": "Wat is de overeenkomst tussen een koning en een hacker?\nBeiden betalen geen belasting. De koning omdat hij vrijgesteld is, de hacker omdat hij de wet omzeilt. \nDat geldt trouwens niet voor alle landen. De Nederlandse koning betaalt niets, de Britse betaalt op basis van vrijwilligheid en in Zweden en Noorwegen gelden de belastingwetten ook voor de koningen.",
-      "image": "Dataleak"
+      "image": "KoningHackerVerschillenWeinig"
     },
     {
       "day": 124,
@@ -623,7 +623,7 @@
     {
       "day": 125,
       "text": "Jezelf iets minder vaak voor selfies opmaken is gezond. De gemiddelde vrouw eet twintig kilogram lippenstift in haar leven op.",
-      "image": "Selfie"
+      "image": "LipstikEtenBevatCalorieen"
     },
     {
       "day": 126,
